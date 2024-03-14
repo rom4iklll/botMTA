@@ -1,5 +1,5 @@
 import time
-
+#лфывпть
 import cv2
 import mss
 import numpy
